@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: SnakeTimed
+Class-Path: libs/jnativehook-2.2.1.jar
+

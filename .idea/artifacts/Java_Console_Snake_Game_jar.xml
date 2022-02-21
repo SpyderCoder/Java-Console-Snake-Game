@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="Java-Console-Snake-Game:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java_Console_Snake_Game_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Java-Console-Snake-Game.jar">
+        <element id="module-output" name="Java-Console-Snake-Game" />
+      </element>
+      <element id="directory" name="libs">
+        <element id="library" level="project" name="jnativehook-2.2.1" />
+      </element>
+    </root>
+  </artifact>
+</component>
